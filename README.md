@@ -1,6 +1,9 @@
 Project created based on Microsoft Learning official page
 Link: https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/
 
+The aim this project is learn more about .NET works when building API
+
+
 To Execute:
 1. have installed the .net
 2. open this project on visual studio code or other
